@@ -41,3 +41,16 @@ from statistics import *
 dados = [10, 12, 15, 18, 20, 22, 25, 28, 30, 32, 35, 38, 40, 42]
 ```
 
+## 📷 Capturas de Tela
+
+### Passos 1, 2 e 3
+
+![Passos 1, 2 e 3](1.png)
+
+### Passo 4
+
+![Passo 4](2.png)
+
+### Passo 5
+
+![Passo 5](3.png)
